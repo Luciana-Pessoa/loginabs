@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
   background-position: center;
   background-blend-mode: overlay;
-  background-color: rgba(41, 10, 10, 0.877);
+  background-color: rgba(61, 15, 15, 0.993);
 }
 .page-section .particles-bg .particles-js-canvas-el {
   position: absolute;

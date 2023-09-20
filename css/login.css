@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 .login-page .login-form .input-control .label-container:hover input ~ .checkmark,
 .login-page .signup-form .input-control .label-container:hover input ~ .checkmark,
 .login-page .forgot-form .input-control .label-container:hover input ~ .checkmark {
-  background-color: #3c3c3c;
+  background-color: #747171;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }

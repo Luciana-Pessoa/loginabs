@@ -441,15 +441,15 @@ h1, h2, h3, h4, h5, h6 {
 .login-page .login-form .input-control .login-with-btns .google,
 .login-page .login-form .input-control .login-with-btns .facebook,
 .login-page .login-form .input-control .login-with-btns .twitter,
-.login-page .login-form .input-control .login-with-btns .linkedin,
+.login-page .login-form .input-control .login-with-btns .instagram,
 .login-page .signup-form .input-control .login-with-btns .google,
 .login-page .signup-form .input-control .login-with-btns .facebook,
 .login-page .signup-form .input-control .login-with-btns .twitter,
-.login-page .signup-form .input-control .login-with-btns .linkedin,
+.login-page .signup-form .input-control .login-with-btns .instagram,
 .login-page .forgot-form .input-control .login-with-btns .google,
 .login-page .forgot-form .input-control .login-with-btns .facebook,
 .login-page .forgot-form .input-control .login-with-btns .twitter,
-.login-page .forgot-form .input-control .login-with-btns .linkedin {
+.login-page .forgot-form .input-control .login-with-btns .instagram  {
   width: 35px;
   height: 35px;
   margin: 8px 5px 8px 0;
@@ -472,15 +472,15 @@ h1, h2, h3, h4, h5, h6 {
 .login-page .login-form .input-control .login-with-btns .google i,
 .login-page .login-form .input-control .login-with-btns .facebook i,
 .login-page .login-form .input-control .login-with-btns .twitter i,
-.login-page .login-form .input-control .login-with-btns .linkedin i,
+.login-page .login-form .input-control .login-with-btns .instagram i,
 .login-page .signup-form .input-control .login-with-btns .google i,
 .login-page .signup-form .input-control .login-with-btns .facebook i,
 .login-page .signup-form .input-control .login-with-btns .twitter i,
-.login-page .signup-form .input-control .login-with-btns .linkedin i,
+.login-page .signup-form .input-control .login-with-btns .instagram i,
 .login-page .forgot-form .input-control .login-with-btns .google i,
 .login-page .forgot-form .input-control .login-with-btns .facebook i,
 .login-page .forgot-form .input-control .login-with-btns .twitter i,
-.login-page .forgot-form .input-control .login-with-btns .linkedin i {
+.login-page .forgot-form .input-control .login-with-btns .instagram i {
   color: #c3c3c3;
   font-size: 14px;
   -webkit-transition: all 0.2s ease-in-out;

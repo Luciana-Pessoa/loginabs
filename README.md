@@ -5,7 +5,7 @@ const whoAmI = {
   name: "Luciana Pessoa",
   am: "self-taught",FSD558
   graduation: "Software Developer", 
-  job: "Fullstack Developer with PHP & ReactJS",54561
+  job: "Fullstack Developer with PHP & ReactJS",5
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [9849859852ghkgh
     "Spend energy with my pet",

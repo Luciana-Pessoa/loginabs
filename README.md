@@ -1,10 +1,10 @@
 # loginabs
 
 ```javascript 
-const whoAmI = {
+const whoAmI = {hfgjdfgj
   name: "Luciana Pessoa",
   am: "self-taught",F
-  graduation: "Software Developer", 
+  graduation: "Software Developer", dfgjdfj
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [9849859852ghkgh

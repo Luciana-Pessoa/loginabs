@@ -15,7 +15,7 @@ const whoAmI = {
   currentCity: "MG",
   ambitions: [.....]8728
    ✅ "❤️ Passion for coding..(...)",hukhjkjk
-   ✅ "Impacting the world through technology",22222
+   ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]PO
 }

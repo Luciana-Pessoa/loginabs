@@ -13,7 +13,7 @@ const whoAmI = {
     " I like to do maintenance on machines and electronics👩‍🔧‍"djcksicidsdfsdfsdf
   ],
   currentCity: "MG",
-  ambitions: [.....]
+  ambitions: [.....]ghdghdghdghdgh
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"hthghtghetheth

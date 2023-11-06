@@ -19,7 +19,7 @@ const whoAmI = {
    ✅ "Be happy"hthghtghetheth
   ]PO
 }
-```sjdosiciwicisiicc
+```sjdosi
 <div>
   <h2 align="center">More about me...</h2>
   

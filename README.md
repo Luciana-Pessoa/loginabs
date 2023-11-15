@@ -4,7 +4,7 @@ hgbl
 const whoAmI = {
   name: "Luciana Pessoa",
   am: "self-taught",
-  graduation: "Software Developer", lsd,fsldf,
+  graduation: "Software Developer", lsd,fsldf,6461654
   job: "Fullstack Developer with PHP & ReactJS",wekwp[ofk55555
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [

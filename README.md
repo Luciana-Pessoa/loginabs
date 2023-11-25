@@ -2,18 +2,18 @@
 
 ```javascript 
 const whoAmI = {
-  name: "Luciana Pessoa",
+  name: "Luciana Pessoa",hijhh
   am: "self-taught",
   graduation: "Software Developer",
   job: "Fullstack Developer with PHP & ReactJS",wekwp[
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
-  hobbies: [
+  hobbies: [uihgcxjkkknhh
     "Spend energy with my pet"
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
-  ],
+  ],kijjjhhkwkckskckdkc
   currentCity: "MG",
-  ambitions: [.....]fgsgsdg
+  ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"

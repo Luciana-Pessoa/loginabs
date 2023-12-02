@@ -9,7 +9,7 @@ const whoAmI = {
   job: "Fullstack Developer with PHP & ReactJS",wekwp[
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
-    eidjdidodjcjd
+    jdicnxocnckd
     "Spend energy with my pet"dkskcjd
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"xjdjvj

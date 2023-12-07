@@ -12,7 +12,7 @@ const whoAmI = {
     jdicnxocnckd
     "Spend energy with my pet"dkskcjdsdfgsdfg
     "Consume content about technology and innovations❤️",
-    " I like to do maintenance on machines and electronics👩‍🔧‍"xjdjvjsdfgsdg
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",
   ambitions: [.....]

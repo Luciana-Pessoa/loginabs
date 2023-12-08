@@ -6,10 +6,10 @@ const whoAmI = {dfgdfg
   name: "Luciana Pessoa",dfhdh
   am: "self-taught",dhdh
   graduation: "Software Developer",
-  job: "Fullstack Developer with PHP & ReactJS",wekwp[
+  job: "Fullstack Developer with PHP & ReactJS",wekwp[dhdhdh
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
-  hobbies: [
-    "Spend energy with my pet"
+  hobbies: [hdghdgh
+    "Spend energy with my pet"dghdhgdgh
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],

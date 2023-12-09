@@ -2,7 +2,7 @@
 
 ```javascript 
 gdfg
-const whoAmI = {dfgdfg
+const whoAmI = {
   name: "Luciana Pessoa",dfhdh
   am: "self-taught",dhdh
   graduation: "Software Developer",

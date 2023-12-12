@@ -3,8 +3,8 @@
 ```javascript 
 gdfg
 const whoAmI = {
-  name: "Luciana Pessoa",
-  am: "self-taught",
+  name: "Luciana Pessoa",gkgk
+  am: "self-taught",gkgkhk
   graduation: "Software Developer",
   job: "Fullstack Developer with PHP & ReactJS",wekwp[
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",

@@ -3,7 +3,7 @@
 ```javascript 
 gdfg
 const whoAmI = {
-  name: "Luciana Pessoa",gkgk
+  name: "Luciana Pessoa",
   am: "self-taught",gkgkhk
   graduation: "Software Developer",
   job: "Fullstack Developer with PHP & ReactJS",wekwp[

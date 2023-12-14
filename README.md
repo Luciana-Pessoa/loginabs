@@ -5,7 +5,7 @@ gdfg
 const whoAmI = {
   name: "Luciana Pessoa",
   am: "self-taught",gkgkhk
-  graduation: "Software Developer",
+  graduation: "Software Developer",sdfsfdsdf
   job: "Fullstack Developer with PHP & ReactJS",wekwp[
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [

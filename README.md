@@ -7,7 +7,7 @@ const whoAmI = {
   am: "self-taught",SDFSDF
   graduation: "Software Developer",
   job: "Fullstack Developer with PHP & ReactJS",wekwp[sdfsdf
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",SDFSDFSDF
   hobbies: [sdfsdfsdf
     "Spend energy with my pet"
     "Consume content about technology and innovations❤️",

@@ -20,7 +20,7 @@ const whoAmI = {
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]PO
-} 
+} codicid
 ```
 <div>
   <h2 align="center">More about me...</h2>

@@ -13,7 +13,7 @@ const whoAmI = {
     "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],sdfsdf
-6523652
+6523652kdodic
   currentCity: "MG",
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",561651651

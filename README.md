@@ -11,7 +11,7 @@ const whoAmI = {\v
   hobbies: [
     "Spend energy with my pet"5915454646545454
     "Consume content about technology and innovations❤️",654654
-    " I like to do maintenance on machines and electronics👩‍🔧‍"654654
+    " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],sdfsdf545265
 6523652kdodic6565
   currentCity: "MG",

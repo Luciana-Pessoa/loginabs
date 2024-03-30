@@ -15,7 +15,7 @@ const whoAmI = {\v
   ],sdfsdf545265xkdifvtg
 6523652kdodic6565djeiddkeif
   currentCity: "MG",
-  ambitions: [.....]difi
+  ambitions: [.....]dificevh
    ✅ "❤️ Passion for coding..(...)",561651651
    ✅ "Impacting the world through technology",
    ✅ "Be happy"

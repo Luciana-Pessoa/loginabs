@@ -15,7 +15,7 @@ const whoAmI = {\v
   ],
   currentCity: "MG",
   ambitions: [.....]
-   ✅ "❤️ Passion for coding..(...)",561651651
+   ✅ "❤️ Passion for coding..(...)",
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
   ]POdjcieuc

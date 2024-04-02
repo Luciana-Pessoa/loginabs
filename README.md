@@ -10,7 +10,7 @@ const whoAmI = {\v65652
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [
     "Spend energy with my pet"
-    "Consume content about technology and innovations❤️",654654
+    "Consume content about technology and innovations❤️",6546546
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",

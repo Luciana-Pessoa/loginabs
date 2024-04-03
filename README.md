@@ -2,7 +2,7 @@ i# loginabs
 
 ```javascript 
 gdfg541651
-const whoAmI = {\v65652
+const whoAmI = {\
   name: "Luciana Pessoa",
   am: "self-taught",
   graduation: "Software Developer",d

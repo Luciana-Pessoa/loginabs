@@ -8,7 +8,7 @@ const whoAmI = {\
   graduation: "Software Developer",d
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
-  hobbies: [
+  hobbies: [k
     "Spend energy with my pet"52
     "Consume content about technology and innovations❤️",6546546
     " I like to do maintenance on machines and electronics👩‍🔧‍"

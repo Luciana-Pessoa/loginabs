@@ -6,7 +6,7 @@ const whoAmI = {\CZC
   name: "Luciana Pessoa",
   am: "self-taught",g
   graduation: "Software Developer",d
-  job: "Fullstack Developer with PHP & ReactJS",
+  job: "Fullstack Developer with PHP & ReactJS",XC
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",k
   hobbies: [kZC
     "Spend energy with my pet"52ZXC

@@ -14,7 +14,7 @@ const whoAmI = {\CZC
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],
   currentCity: "MG",gkg
-  ambitions: [.....]    
+  ambitions: [.....]    fgdfg
    ✅ "❤️ Passion for coding..(...)",dfg
    ✅ "Impacting the world through technology",g
    ✅ "Be happy"

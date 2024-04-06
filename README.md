@@ -15,7 +15,7 @@ const whoAmI = {\CZC
   ],
   currentCity: "MG",gkg
   ambitions: [.....]    
-   ✅ "❤️ Passion for coding..(...)",
+   ✅ "❤️ Passion for coding..(...)",dfg
    ✅ "Impacting the world through technology",g
    ✅ "Be happy"
   ]POdjcieuc

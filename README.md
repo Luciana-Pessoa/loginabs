@@ -2,23 +2,24 @@ i# loginabs
 
 ```javascript 
 gdfg541651
-const whoAmI = {\CZC
-  name: "Luciana Pessoa",
-  am: "self-taught",g
+const whoAmI = {\v
+  name: "Luciana Pessoa",frch
+  am: "self-taught",gdfghijh
   graduation: "Software Developer",d
-  job: "Fullstack Developer with PHP & ReactJS",XC
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",k
-  hobbies: [kZC
-    "Spend energy with my pet"52ZXC
-    "Consume content about technology and innovations❤️",6546546
+  job: "Fullstack Developer with PHP & ReactJS",
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",SDFSDFSDF454
+  hobbies: [srsrsr
+    "Spend energy with my pet"59154546465
+    "Consume content about technology and innovations❤️",654654
     " I like to do maintenance on machines and electronics👩‍🔧‍"
-  ],
-  currentCity: "MG",gkg
-  ambitions: [.....]    fgdfg
-   ✅ "❤️ Passion for coding..(...)",dfg
-   ✅ "Impacting the world through technology",g
+  ],sdfsdf545265xkdifvtg
+6523652kdodic6565djeiddkeifbjjbv
+  currentCity: "MG",disx
+  ambitions: [.....]dificevh
+   ✅ "❤️ Passion for coding..(...)",561651651
+   ✅ "Impacting the world through technology",
    ✅ "Be happy"
-  ]POdjcieucsddfd
+  ]POdjcieuc
 } codicidgrfg
 ```
 <div>

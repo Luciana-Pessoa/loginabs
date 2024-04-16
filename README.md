@@ -7,7 +7,7 @@ const whoAmI = {\v
   am: "self-taught",gdfghijh54
   graduation: "Software Developer",dasd
   job: "Fullstack Developer with PHP & ReactJS",
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",SDFSDFSDF454
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",SDFSDFSDF454654
   hobbies: [srsrsr54
     "Spend energy with my pet"asdasd52fj
     "Consume content about technology and innovations❤️",65465as4asd54

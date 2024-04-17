@@ -5,7 +5,7 @@ i# loginabs
 const whoAmI = {\v
   name: "Luciana Pessoa",frc
   am: "self-taught",gdfg
-  graduation: "Software Developer",dasd
+  graduation: "Software Developer",
   job: "Fullstack Developer with PHP & ReactJS",
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",SDFSDFSDF4546544
   hobbies: [srsrsr54

@@ -3,7 +3,7 @@ i# loginabs
 ```javascript 
 
 const whoAmI = {\v
-  name: "Luciana Pessoa",frchkfitasdghhuj
+  name: "Luciana Pessoa",frchkfitasdg
   am: "self-taught",gdfg
   graduation: "Software Developer",dasd
   job: "Fullstack Developer with PHP & ReactJS",

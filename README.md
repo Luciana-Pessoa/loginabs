@@ -13,7 +13,7 @@ const whoAmI = {\v
     "Consume content about technology and innovations❤️",65465as4asd54
     " I like to do maintenance on machines and electronics👩‍🔧‍"
   ],ciecirgcidif
-  currentCity: "MG",disxckefif
+  currentCity: "MG",disxckefifcieif
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",561651651
    ✅ "Impacting the world through technology",

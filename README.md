@@ -5,21 +5,21 @@ i# loginabs
 const whoAmI = {\v
   name: "Luciana Pessoa", 
   am: "self-taught",
-  graduation: "Software Developer",dasd
+  graduation: "Software Developer",
   job: "Fullstack Developer with PHP & ReactJS",
-  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",SDFSDFSDF454
-  hobbies: [srsrsr54fieiv
-    "Spend energy with my pet"asdasd52
-    "Consume content about technology and innovations❤️",65465as4asd54
+  currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
+  hobbies: [
+    "Spend energy with my pet"
+    "Consume content about technology and innovations❤️",
     " I like to do maintenance on machines and electronics👩‍🔧‍"
-  ],ciecirgcidifcidiefifirfoforg
-  currentCity: "MG",disxckefifcieif
-  ambitions: [.....]diciriv
+  ],
+  currentCity: "MG",
+  ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",561651651
    ✅ "Impacting the world through technology",
    ✅ "Be happy"
-  ]POdjcieuc
-} codicidgrfg
+  ]
+}
 ```
 <div>
   <h2 align="center">More about me...</h2>

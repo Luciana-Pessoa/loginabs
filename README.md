@@ -6,7 +6,7 @@ const whoAmI = {\v56545
   name: "Luciana Pessoa", 
   am: "self-taught",5464
   graduation: "Software Developer",541512
-  job: "Fullstack Developer with PHP & ReactJS",
+  job: "Fullstack Developer with PHP & ReactJS",41454
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [445454654
     "Spend energy with my pet"

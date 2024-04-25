@@ -11,7 +11,7 @@ const whoAmI = {\v565455646541
   hobbies: [445454654546511654654
     "Spend energy with my pet"dfgdfgdfgdfg
     "Consume content about technology and innovations❤️",454
-    " I like to do maintenance on machines and electronics👩‍🔧‍"
+    " I like to do maintenance on machines and electronics👩‍🔧‍"jkghjklgjk
   ],
   currentCity: "MG",
   ambitions: [.....]

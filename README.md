@@ -12,7 +12,7 @@ const whoAmI = {\mskdicif
     "Spend energy with my pet"dfgdfgdfgdfg
     "Consume content about technology and innovations❤️",4
     " I like to do maintenance on machines and electronics👩‍🔧‍"jkghjklgjk
-  ], ksjcha
+  ], ksjchaxkdic
   currentCity: "MG",ckdof
   ambitions: [.....]
    ✅ "❤️ Passion for coding..(...)",

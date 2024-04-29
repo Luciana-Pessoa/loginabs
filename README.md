@@ -9,7 +9,7 @@ const whoAmI = {\mskdicif
   job: "Fullstack Developer with PHP & ReactJS",41454dfgdfg
   currentCourse: "Rocketseat, JStack, Alura, LINUXtips, ProgramadorBR, Dio, Estudonauta.",
   hobbies: [445454654546511654654
-    "Spend energy with my pet"dfgdfgdfgdfg
+    "Spend energy with my pet"dfgdfgdfgdfg654654
     "Consume content about technology and innovations❤️",4
     " I like to do maintenance on machines and electronics👩‍🔧‍"jkghjklgjk
   ], ksjchaxkdic

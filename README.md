@@ -2,7 +2,7 @@ i# loginabs
 
 ```javascript 
 
-const whoAmI = {\mskdicif
+const whoAmI = {\
   name: "Luciana Pessoa", zisjcfieif5465465
   am: "self-taught",54ifrig
   graduation: "Software Developer",541512mvbm,16515154654
